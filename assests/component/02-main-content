@@ -1,0 +1,19 @@
+
+  <section class="main-content" >
+    <div class="tapsi-dl w-100">
+      <div class="tapsi-content">
+        <h2> تپسی </h2>
+        <h4 >اپلیکیشن درخواست خودرو و پیک </h4>
+        <div class="tapsi-content-button">
+          <a href="#" class="btn btn-light"> <i> <img src="./assests/images/down-arrow.svg" alt="download"></i> <span> دانلود اپلیکیشن مسافران </span> </a>
+          <a href="#" class="btn btn-light"> <i><img src="./assests/images/pwa.svg" alt="pwa"></i> <span> وب اپلیکیشن مسافران </span> </a>
+          <a href="#" class="btn btn-outline"> <i><img src="./assests/images/car.svg" alt="car"></i> <span> ثبت‌نام راننده خودرو</span> </a>
+          <a href="#" class="btn btn-outline"> <i><img src="./assests/images/motor.svg" alt="motor"></i> <span> ثبت‌نام راننده موتور</span> </a>
+          <a href="#" class="btn btn-outline"> <i><img src="./assests/images/down-arrow2.svg" alt="download"></i> <span> دانلود اپلیکیشن رانندگان</span> </a>
+        </div>
+      </div>
+    </div>
+    <div class="tapsi-phone w-100">
+      <img src="./assests/images/mockup-phone.webp" alt="">
+    </div>
+  </section>    

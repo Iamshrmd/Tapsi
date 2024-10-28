@@ -1,0 +1,25 @@
+
+  <section class="tapsi-advantages container">
+    <div class="advantages-img w-100 p-15 ">
+      <img class="w-100" src="./assests/images/driver.jpg" alt="driver">
+    </div>
+    <div class="advantages-detail w-100 p-15">
+      <h2> 
+        مزایای تپسی برای رانندگان تاکسی اینترنتی
+      </h2>
+      <p>
+        رانندگان (سفیران) به‌عنوان همکاران تپسی، جایگاه ویژه‌ای برای شرکت دارند. به همین‌دلیل مزایای مختلفی برای آنها در نظر گرفته شده است.
+      </p>
+      <p>کسب درآمد روزانه، پایدار و بدون محدودیت </p>
+      <div class="advantages-btn">
+        <a class="btn btn-info" href="#">
+          ثبت نام راننده تاکسی آنلاین
+        </a>
+        <a class="btn btn-info" href="#">
+          دانلود برنامه تپسی راننده
+        </a>
+      </div>
+
+    </div>
+    
+  </section>
